@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import TopBar from '../components/TopBar.vue';
 import { useRouter } from 'vue-router';
 import { ref, onMounted } from 'vue';
