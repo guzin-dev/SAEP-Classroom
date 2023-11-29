@@ -33,10 +33,6 @@ const login = () => {
 
 <template>
   <main class="w-screen h-screen flex flex-col items-center justify-center">
-    <div class="flex gap-2 font-semibold text-sm items-center m-4 bg-gray-100 p-4 rounded-full">
-      <img src="classroom.svg" />
-      <p>Classroom</p>
-    </div>
     <div class="flex flex-col gap-1 items-center border rounded-md p-5 border-gray-300">
       <p class="font-bold text-2xl tracking-tighter">Bem-vindo</p>
       <p class="text-sm tracking-tighter">Faça seu login para acessar suas turmas</p>
